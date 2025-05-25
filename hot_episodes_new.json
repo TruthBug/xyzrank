@@ -2,36 +2,20 @@
   "data": {
     "episodes": [
       {
-        "title": "月薪1万卡3年？找到赚钱猛的老板，才愿意分你钱💰",
-        "podcastID": "1289cfb151445c598c11476501371459",
-        "podcastName": "富女孩宝典",
-        "logoURL": "https://xyzrank.justinbot.com/FupCUr-YH4Ker_WCnEB6QZT7OIiX.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/682346cbb7c8a9962ce98f60",
-        "playCount": 11186,
-        "commentCount": 129,
-        "subscription": 27604,
-        "duration": 104,
-        "postTime": "2025-05-13T23:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 7,
-        "openRate": 0.4052311259237792,
-        "lastReleaseDateDayCount": 9.85453699074074
-      },
-      {
         "title": "vol.11咱们北京哪哪都好，就是这儿差点意思！",
         "podcastID": "ff82102a8bbf36f5dca0703a37add507",
         "podcastName": "癫疯对谈",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6824582c5ccf03732bd09f3d",
-        "playCount": 7230,
-        "commentCount": 120,
+        "playCount": 7422,
+        "commentCount": 124,
         "subscription": 2778,
         "duration": 111,
         "postTime": "2025-05-14T09:05:34.004Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 6,
-        "openRate": 2.6025917926565874,
-        "lastReleaseDateDayCount": 9.434004537037037
+        "openRate": 2.67170626349892,
+        "lastReleaseDateDayCount": 10.434013368055556
       },
       {
         "title": "7.再造台湾（电影）",
@@ -39,15 +23,31 @@
         "podcastName": "电影巨辩·为了华语电影",
         "logoURL": "https://xyzrank.justinbot.com/FsuAlVAio7OYvWtbu9qMiT_Fdd32.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/682df39cfcbc2e206b177c9d",
-        "playCount": 2285,
-        "commentCount": 160,
+        "playCount": 4593,
+        "commentCount": 207,
         "subscription": 3099,
         "duration": 498,
         "postTime": "2025-05-22T16:00:00.000Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 6,
-        "openRate": 0.7373346240722813,
-        "lastReleaseDateDayCount": 1.1462036574074075
+        "openRate": 1.4820909970958374,
+        "lastReleaseDateDayCount": 2.1462124884259257
+      },
+      {
+        "title": "7.中国的离婚率太高了么？",
+        "podcastID": "5f1d4250c6ca3f789467f5544279d090",
+        "podcastName": "数据会说话",
+        "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6830068e457b22ce0d1f9537",
+        "playCount": 2820,
+        "commentCount": 39,
+        "subscription": 7788,
+        "duration": 29,
+        "postTime": "2025-05-23T05:37:53.344Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 4,
+        "openRate": 0.362095531587057,
+        "lastReleaseDateDayCount": 1.5782339699074075
       },
       {
         "title": "12. 谈“用典”: 当历史成为一种修辞 | 从辛弃疾到肯尼迪",
@@ -55,15 +55,15 @@
         "podcastName": "追来园杂记",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/67/02/47/670247a1-e6ff-5c1a-ef86-070fdfa53baa/2474b792-425e-490a-95fe-004545ff3b6f.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/682c53d8fcbc2e206bdb4aaf",
-        "playCount": 1160,
-        "commentCount": 33,
+        "playCount": 1317,
+        "commentCount": 34,
         "subscription": 9463,
         "duration": 39,
         "postTime": "2025-05-20T10:08:38.834Z",
         "primaryGenreName": "社会与文化",
         "totalEpisodesCount": 14,
-        "openRate": 0.12258269047870654,
-        "lastReleaseDateDayCount": 3.390198634259259
+        "openRate": 0.13917362358660043,
+        "lastReleaseDateDayCount": 4.390207465277777
       },
       {
         "title": "理想为什么要标配激光雷达？",
@@ -71,24 +71,24 @@
         "podcastName": "云见Talk",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/9f/ba/ff9fba68-71e3-03bc-f7e2-70ced05f10a2/mza_4984097249794703265.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/682c5ccafcbc2e206bdce16b",
-        "playCount": 1033,
+        "playCount": 1073,
         "commentCount": 8,
         "subscription": 907,
         "duration": 75,
         "postTime": "2025-05-20T10:45:33.038Z",
         "primaryGenreName": "科技",
         "totalEpisodesCount": 14,
-        "openRate": 1.1389195148842337,
-        "lastReleaseDateDayCount": 3.3645712731481483
+        "openRate": 1.1830209481808158,
+        "lastReleaseDateDayCount": 4.3645801041666665
       }
     ],
     "medianValues": {
-      "playCount": 2285,
-      "commentCount": 120,
-      "interactiveRate": 0.016597510373443983,
-      "openRate": 0.7373346240722813,
-      "duration": 104,
-      "lastReleaseDateDayCount": 3.390198634259259
+      "playCount": 2820,
+      "commentCount": 39,
+      "interactiveRate": 0.016707087038534088,
+      "openRate": 1.1830209481808158,
+      "duration": 75,
+      "lastReleaseDateDayCount": 4.3645801041666665
     }
   },
   "type": 3
